@@ -1,0 +1,29 @@
+header {
+    height: 180px;
+}
+
+.nav-container--list li a {
+    font-size: 1.8rem;
+    margin: 0 20px;
+}
+
+h1 {
+    width: 480px;
+    font-size: 5rem;
+}
+
+.img-container {
+    bottom: 50%;
+    left: calc(50% - -135px);
+    width: 180px;
+    height: 180px;
+}
+
+.img-container img {
+    width: 66px;
+    height: 66px;
+}
+
+.barra-lateral {
+    height: 90vh;
+}

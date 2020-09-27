@@ -1,0 +1,78 @@
+header {
+    height: 300px;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+h2 {
+    font-size: 4.8rem;
+}
+
+.nav-container {
+    margin: 0 50px;
+}
+
+.img-container {
+    bottom: 20%;
+    width: 300px;
+    left: calc(50% - -150px);
+    height: 300px;
+}
+
+.img-container img {
+    width: 96px;
+    height: 96px;
+}
+
+.logo-container img {
+    width: 61px;
+    top: 15px;
+    left: calc(2% - 2px)
+}
+
+.barra-lateral {
+    width: 100px;
+    height: 84vh;
+}
+
+.redes--container a img  {
+    padding: 20px 15px;
+    width: 54px;
+}
+
+.desarrollo,
+.diseño {
+    font-size: 1.8rem;
+}
+
+.diseño {
+    margin-right: 90px;
+}
+
+h4 {
+    font-size: 2.4rem;
+}
+
+.strongs-container {
+    width: 496px;
+}
+
+.strongs-img img {
+    width: 48px;
+    height: 48px;
+}
+
+.rocket-container img {
+    width: 180px;
+    height: 180px;
+}
+
+.info--details {
+    font-size: 1.8rem;
+}
+
+.proyect figure img {
+    height: 250px;
+}
