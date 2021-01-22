@@ -1,3 +1,7 @@
-.barra-lateral {
+.barra-lateral.is-active {
     left: 0;
+}
+
+.barra-lateral {
+    height: 60vh;
 }

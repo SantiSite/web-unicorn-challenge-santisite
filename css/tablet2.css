@@ -25,5 +25,9 @@ h1 {
 }
 
 .barra-lateral {
-    height: 90vh;
+    height: 80vh;
+}
+
+.barra-lateral.is-active {
+    left: 0;
 }

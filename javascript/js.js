@@ -1,8 +1,8 @@
 const menu = document.querySelector('.barra-lateral');
 const Button = document.querySelector('#button');
-const ipad = window.matchMedia('screen and (max-width: 600px)');
+const mobile = window.matchMedia('screen and (max-width: 2000px)');
 
-ipad.addListener(validation);
+mobile.addListener(validation);
 
 function validation(event) {
     if (event.matches) {
@@ -13,7 +13,7 @@ function validation(event) {
     console.log(event.matches);
 }
 
-validation(ipad);
+validation(mobile);
 
 function hideShow() {
     if (menu.classList.contains('is-active')) {

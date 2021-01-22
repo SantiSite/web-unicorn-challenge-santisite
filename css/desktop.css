@@ -33,13 +33,17 @@ h2 {
 }
 
 .barra-lateral {
-    width: 100px;
-    height: 84vh;
+    width: 111px;
+    height: 70vh;
+}
+
+.barra-lateral.is-active {
+    left: 0;
 }
 
 .redes--container a img  {
     padding: 20px 15px;
-    width: 54px;
+    width: 66px;
 }
 
 .desarrollo,

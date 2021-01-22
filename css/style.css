@@ -19,7 +19,7 @@ header {
     width: 100%;
     height: 134.28px;
     background-color: #FCFCFC;
-    box-shadow: 0px 4px 8px rgba(157, 168, 190, 0.5);
+    box-shadow: 0 4px 8px rgba(157, 168, 190, 0.5);
 }
 
 h1 {
@@ -78,7 +78,7 @@ p {
     height: 115px;
     background-color: #E92042;
     border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(157, 168, 190, 0.5);
+    box-shadow: 0 4px 8px rgba(157, 168, 190, 0.5);
 }
 
 .img-container img {
@@ -87,13 +87,13 @@ p {
 }
 
 .barra-lateral {
-    height: 70vh;
+    height: 65vh;
     width: 55px;
     position: fixed;
     top: 0;
     left: -100vw;
     background-color: #FCFCFC;
-    box-shadow: 2px 0px 4px rgba(157, 168, 190, 0.5);
+    box-shadow: 2px 0 4px rgba(157, 168, 190, 0.5);
     transition: .3s;
 }
 
@@ -162,7 +162,7 @@ main {
     background-color: #FCFCFC;
     border-radius: 8px;
     padding: 7px;
-    box-shadow: 0px 4px 8px rgba(157, 168, 190, 0.5);
+    box-shadow: 0 4px 8px rgba(157, 168, 190, 0.5);
 }
 
 .desarrollo {
@@ -205,7 +205,7 @@ main {
     justify-content: center;
     height: 178px;
     background-color: #FCFCFC;
-    box-shadow: 0px 4px 8px rgba(157, 168, 190, 0.5);
+    box-shadow: 0 4px 8px rgba(157, 168, 190, 0.5);
     border-radius: 8px;
     padding: 10px 20px;
     font-size: 1.5rem;
@@ -246,7 +246,7 @@ main {
     margin: 10px 12px 0;
     background-color: #0D0139;
     border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(157, 168, 190, 0.5);
+    box-shadow: 0 4px 8px rgba(157, 168, 190, 0.5);
 }
 
 .proyect figure img {
